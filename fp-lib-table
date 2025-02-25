@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nRF54L15-DK - Rebble Hackster Library")(type "KiCad")(uri "${KIPRJMOD}/nRF54L15-DK - Rebble Hackster Library.pretty")(options "")(descr ""))
+)
