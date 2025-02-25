@@ -1,8 +1,8 @@
 # nRF54L15-DK Rebble Shield - SMD
 
-[![GitHub stars](https://img.shields.io/github/stars/robbsabolovic/nRF54L15-DK_Rebble_Shield)](https://github.com/robbsabolovic/nRF54L15-DK_Rebble_Shield/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/robbsabolovic/nRF54L15-DK_Rebble_Shield)](https://github.com/robbsabolovic/nRF54L15-DK_Rebble_Shield/network)
-[![GitHub issues](https://img.shields.io/github/issues/robbsabolovic/nRF54L15-DK_Rebble_Shield)](https://github.com/robbsabolovic/nRF54L15-DK_Rebble_Shield/issues)
+[![GitHub stars](https://img.shields.io/github/stars/robbsabolovic/nRF54L15_Rebble_Shield)](https://github.com/robbsabolovic/nRF54L15_Rebble_Shield/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/robbsabolovic/nRF54L15_Rebble_Shield)](https://github.com/robbsabolovic/nRF54L15_Rebble_Shield/network)
+[![GitHub issues](https://img.shields.io/github/issues/robbsabolovic/nRF54L15_Rebble_Shield)](https://github.com/robbsabolovic/nRF54L15_Rebble_Shield/issues)
 ---
 KiCAD PCB template with Bottom SMD header connection to nRF54L15-DK.  
 Intended to support Rebble contestants on [Hackster.io](https://Hackster.io)
